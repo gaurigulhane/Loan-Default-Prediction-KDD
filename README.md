@@ -4,7 +4,6 @@
 **Course:** Predictive Analytics — CA3 &nbsp;
 **Environment:** Python / Google Colab / Jupyter Notebook
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gaurigulhane/Loan-Default-Prediction-KDD/blob/main/Loan_Default_Prediction_KDD_CA3.ipynb)
 
 ---
 
