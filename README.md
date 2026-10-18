@@ -135,7 +135,6 @@ Three algorithms are evaluated on each dataset, producing **nine model evaluatio
 5. Set `QUICK_MODE = True` in the configuration cell for a fast smoke test (smaller samples, fewer search iterations — results will differ).
 6. Review the generated tables, plots, leakage audits and interactive prediction interface.
 
-> **Note:** Google Colab sessions do not retain manually uploaded files indefinitely. Re-upload the datasets or mount Drive in a new session. The notebook's saved outputs are results of a prior run, not a guarantee that every future environment will reproduce bit-for-bit identical numbers.
 
 ### Dependencies
 
@@ -207,6 +206,3 @@ The project demonstrates an end-to-end KDD workflow for loan-default risk predic
 
 ---
 
-<p align="center">
-  <sub>Made with ❤️ for Predictive Analytics CA3 | KDD Methodology</sub>
-</p>
