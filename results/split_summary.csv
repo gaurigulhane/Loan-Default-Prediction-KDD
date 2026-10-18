@@ -1,0 +1,4 @@
+Dataset,Train,Validation,Test,Default % (train / val / test),Features,scale_pos_weight
+Customer Behavior,145687,52006,54307,12.6% / 11.7% / 12.1%,14,6.94
+Lending Club,300000,257840,243335,18.3% / 22.7% / 23.4%,10,4.45
+Credit Risk,19449,6483,6484,21.9% / 21.9% / 21.9%,14,3.57
