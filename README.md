@@ -5,8 +5,6 @@
 **Environment:** Python / Google Colab / Jupyter Notebook
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gaurigulhane/Loan-Default-Prediction-KDD/blob/main/Loan_Default_Prediction_KDD_CA3.ipynb)
-[![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
